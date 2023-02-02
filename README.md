@@ -1,6 +1,8 @@
 #🍎Surface Book 2 Hackintosh#
 
 
+https://github.com/LuxferreX/Surface-Book-2-Hackintosh/blob/main/%E6%88%AA%E5%B1%8F2023-02-02%2009.54.03.png?raw=true
+
 
 ##设备配置💻##
 
