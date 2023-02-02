@@ -1,7 +1,8 @@
 #🍎Surface Book 2 Hackintosh#
 
 
-https://github.com/LuxferreX/Surface-Book-2-Hackintosh/blob/main/%E6%88%AA%E5%B1%8F2023-02-02%2009.54.03.png?raw=true
+<img width="779" alt="截屏2023-02-02 09 54 03" src="https://user-images.githubusercontent.com/30519088/216220872-71e1fe07-dfa0-4c5c-adc1-751e2a12e46a.png">
+
 
 
 ##设备配置💻##
