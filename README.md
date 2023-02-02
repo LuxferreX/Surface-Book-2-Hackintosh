@@ -1,11 +1,11 @@
-#🍎Surface Book 2 Hackintosh#
+#🍎Surface Book 2 Hackintosh
 
 
 <img width="779" alt="截屏2023-02-02 09 54 03" src="https://user-images.githubusercontent.com/30519088/216220872-71e1fe07-dfa0-4c5c-adc1-751e2a12e46a.png">
 
 
 
-##设备配置💻##
+##设备配置💻
 
 
    CPU:i5 7300u
@@ -21,7 +21,7 @@
    
 
 
-##安装注意事项⚠️##
+##安装注意事项⚠️
 
 
    1.禁用内置无线网卡和蓝牙
@@ -30,14 +30,14 @@
    
    
 
- ##鸣谢❤️##
+ ##鸣谢❤️
 
    [Xiashangning](https://github.com/Xiashangning/BigSurface)   
    [chris1111](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)
    
    
 
- ##如果你愿意 可以请我喝咖啡~❤️##  
+ ##如果你愿意 可以请我喝咖啡~❤️
 
 
 
